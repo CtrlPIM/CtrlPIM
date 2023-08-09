@@ -1,0 +1,98 @@
+{
+  "design": {
+    "design_info": {
+      "boundary_crc": "0x23D8DD833C73565C",
+      "device": "xc7z020clg484-1",
+      "gen_directory": "../../../../mMPU_uCode_Controller.gen/sources_1/bd/Control_Memory",
+      "name": "Control_Memory",
+      "rev_ctrl_bd_flag": "RevCtrlBdOff",
+      "synth_flow_mode": "None",
+      "tool_version": "2021.2"
+    },
+    "design_tree": {
+      "blk_mem_gen_0": ""
+    },
+    "ports": {
+      "douta_0": {
+        "direction": "O",
+        "left": "31",
+        "right": "0"
+      },
+      "addra_0": {
+        "direction": "I",
+        "left": "15",
+        "right": "0"
+      },
+      "clka_0": {
+        "type": "clk",
+        "direction": "I"
+      }
+    },
+    "components": {
+      "blk_mem_gen_0": {
+        "vlnv": "xilinx.com:ip:blk_mem_gen:8.4",
+        "xci_name": "Control_Memory_blk_mem_gen_0_0",
+        "xci_path": "ip\\Control_Memory_blk_mem_gen_0_0\\Control_Memory_blk_mem_gen_0_0.xci",
+        "inst_hier_path": "blk_mem_gen_0",
+        "parameters": {
+          "Coe_File": {
+            "value": "../../../../../../Test_Control_Memory.coe"
+          },
+          "Enable_32bit_Address": {
+            "value": "false"
+          },
+          "Enable_A": {
+            "value": "Always_Enabled"
+          },
+          "Fill_Remaining_Memory_Locations": {
+            "value": "true"
+          },
+          "Load_Init_File": {
+            "value": "true"
+          },
+          "Memory_Type": {
+            "value": "Single_Port_ROM"
+          },
+          "Port_A_Write_Rate": {
+            "value": "0"
+          },
+          "Register_PortA_Output_of_Memory_Core": {
+            "value": "false"
+          },
+          "Register_PortA_Output_of_Memory_Primitives": {
+            "value": "false"
+          },
+          "Use_RSTA_Pin": {
+            "value": "false"
+          },
+          "Write_Depth_A": {
+            "value": "65536"
+          },
+          "use_bram_block": {
+            "value": "Stand_Alone"
+          }
+        }
+      }
+    },
+    "nets": {
+      "addra_0_1": {
+        "ports": [
+          "addra_0",
+          "blk_mem_gen_0/addra"
+        ]
+      },
+      "blk_mem_gen_0_douta": {
+        "ports": [
+          "blk_mem_gen_0/douta",
+          "douta_0"
+        ]
+      },
+      "clka_0_1": {
+        "ports": [
+          "clka_0",
+          "blk_mem_gen_0/clka"
+        ]
+      }
+    }
+  }
+}

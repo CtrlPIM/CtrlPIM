@@ -1,0 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.gen/sources_1/bd/Control_Memory/ip/Control_Memory_blk_mem_gen_0_0/sim/Control_Memory_blk_mem_gen_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control_Memory_blk_mem_gen_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.gen/sources_1/bd/Control_Memory/sim/Control_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.gen/sources_1/bd/FIFO_Out/ip/FIFO_Out_fifo_generator_0_0/sim/FIFO_Out_fifo_generator_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIFO_Out_fifo_generator_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.gen/sources_1/bd/FIFO_Out/ip/FIFO_Out_fifo_generator_0_3/sim/FIFO_Out_fifo_generator_0_3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIFO_Out_fifo_generator_0_3
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.gen/sources_1/bd/FIFO_Out/ip/FIFO_Out_fifo_generator_0_4/sim/FIFO_Out_fifo_generator_0_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIFO_Out_fifo_generator_0_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.gen/sources_1/bd/FIFO_Out/ip/FIFO_Out_fifo_generator_0_5/sim/FIFO_Out_fifo_generator_0_5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIFO_Out_fifo_generator_0_5
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.gen/sources_1/bd/FIFO_Out/sim/FIFO_Out.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIFO_Out
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.gen/sources_1/bd/Control_Memory/hdl/Control_Memory_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control_Memory_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.gen/sources_1/bd/FIFO_Out/hdl/FIFO_Out_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIFO_Out_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/axis_mMPU_v4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axis_mmpu_v4
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/immu_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module immu_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/output_coloumn_vector.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module output_column_vector

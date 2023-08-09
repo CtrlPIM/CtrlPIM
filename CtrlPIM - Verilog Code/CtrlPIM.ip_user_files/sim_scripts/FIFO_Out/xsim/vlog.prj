@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../../../../Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.gen/sources_1/bd/FIFO_Out/sim/FIFO_Out.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

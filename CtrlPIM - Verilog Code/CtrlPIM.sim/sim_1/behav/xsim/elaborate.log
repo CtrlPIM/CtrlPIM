@@ -1,0 +1,94 @@
+Vivado Simulator v2021.2
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2021.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L blk_mem_gen_v8_4_5 -L fifo_generator_v13_2_6 -L uvm -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot tb_axis_v4_behav xil_defaultlib.tb_axis_v4 xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 10 differs from formal bit length 6 for port 'MOV_in' [C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/Register_File.sv:270]
+WARNING: [VRFC 10-3091] actual bit length 10 differs from formal bit length 6 for port 'Q' [C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/Register_File.sv:275]
+WARNING: [VRFC 10-3091] actual bit length 10 differs from formal bit length 6 for port 'MOV_in' [C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/Register_File.sv:280]
+WARNING: [VRFC 10-3091] actual bit length 10 differs from formal bit length 6 for port 'Q' [C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/Register_File.sv:285]
+WARNING: [VRFC 10-3091] actual bit length 22 differs from formal bit length 25 for port 'D' [C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/Register_File.sv:290]
+WARNING: [VRFC 10-3091] actual bit length 22 differs from formal bit length 25 for port 'Q' [C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/Register_File.sv:294]
+WARNING: [VRFC 10-3091] actual bit length 38 differs from formal bit length 10 for port 'D' [C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/Register_File.sv:398]
+WARNING: [VRFC 10-3091] actual bit length 39 differs from formal bit length 10 for port 'Q' [C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/Register_File.sv:401]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 10 for port 'mux_out' [C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/mov_mux_bus.sv:54]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 10 for port 'mux_out' [C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/mov_mux_bus.sv:65]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 10 for port 'mux_out' [C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/mov_mux_bus.sv:76]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 10 for port 'mux_out' [C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/mov_mux_bus.sv:87]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 10 for port 'a' [C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/mov_mux_bus.sv:93]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 10 for port 'b' [C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/mov_mux_bus.sv:94]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 10 for port 'c' [C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/mov_mux_bus.sv:95]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 10 for port 'd' [C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/mov_mux_bus.sv:96]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'load_ret_addr' [C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/Top_Module.sv:155]
+WARNING: [VRFC 10-3091] actual bit length 10 differs from formal bit length 6 for port 'iw1' [C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/Top_Module.sv:187]
+WARNING: [VRFC 10-3091] actual bit length 10 differs from formal bit length 6 for port 'iw2' [C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/Top_Module.sv:188]
+WARNING: [VRFC 10-3823] variable 'col' might have multiple concurrent drivers [C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/Top_Module.sv:195]
+WARNING: [VRFC 10-5021] port 'clk' is not connected on this instance [C:/Users/LAB/Downloads/mMPU/Microcoded_mMPU_controller_Final/01_Main Project/Updated Controller_06_07/mMPU_IP_Final/mMPU_uCode_Controller.srcs/sources_1/new/Decoding_Logic.sv:87]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.PIMTranslate_MUX_sel
+Compiling module xil_defaultlib.mov_Decoder
+Compiling module xil_defaultlib.dest_reg
+Compiling module xil_defaultlib.src_reg
+Compiling module xil_defaultlib.SR_reg
+Compiling module xil_defaultlib.iw_reg
+Compiling module xil_defaultlib.immediate_reg
+Compiling module xil_defaultlib.temp_reg
+Compiling module xil_defaultlib.mask_reg
+Compiling module xil_defaultlib.crossbar_reg
+Compiling module xil_defaultlib.L_S_reg
+Compiling module xil_defaultlib.immu_reg(N=10)
+Compiling module xil_defaultlib.MUX_Nbit_4x1(bus_size=10)
+Compiling module xil_defaultlib.mov_mux_bus
+Compiling module xil_defaultlib.Register_File
+Compiling module xil_defaultlib.MUX_Nbit_4x1
+Compiling module xil_defaultlib.jump_ld_address
+Compiling module xil_defaultlib.ret_addr_Stack
+Compiling module xil_defaultlib.Address_Sequencing
+Compiling module xil_defaultlib.uCode_Decoder
+Compiling module xil_defaultlib.ubr_update
+Compiling module xil_defaultlib.Flag_MUX
+Compiling module xil_defaultlib.flag_check
+Compiling module xil_defaultlib.AddressMUX_in
+Compiling module xil_defaultlib.Flag_Registers
+Compiling module xil_defaultlib.Decoder_1x2
+Compiling module xil_defaultlib.instruction_type_ld
+Compiling module xil_defaultlib.Decoding_Logic
+Compiling module xil_defaultlib.flag_update
+Compiling module xil_defaultlib.MUX_Nbit_2x1(bus_size=10)
+Compiling module fifo_generator_v13_2_6.fifo_generator_v13_2_6_bhv_ver_s...
+Compiling module fifo_generator_v13_2_6.fifo_generator_v13_2_6_CONV_VER(...
+Compiling module fifo_generator_v13_2_6.fifo_generator_vlog_beh(C_COMMON...
+Compiling module xil_defaultlib.FIFO_Out_fifo_generator_0_0
+Compiling module xil_defaultlib.FIFO_Out_fifo_generator_0_3
+Compiling module xil_defaultlib.FIFO_Out_fifo_generator_0_4
+Compiling module fifo_generator_v13_2_6.fifo_generator_v13_2_6_bhv_ver_s...
+Compiling module fifo_generator_v13_2_6.fifo_generator_v13_2_6_CONV_VER(...
+Compiling module fifo_generator_v13_2_6.fifo_generator_vlog_beh(C_COMMON...
+Compiling module xil_defaultlib.FIFO_Out_fifo_generator_0_5
+Compiling module xil_defaultlib.FIFO_Out
+Compiling module xil_defaultlib.FIFO_Out_wrapper
+Compiling module xil_defaultlib.memory_addressing
+Compiling module xil_defaultlib.mem_address_to_col_vector(col_si...
+Compiling module xil_defaultlib.output_column_vector(col_size=32...
+Compiling module xil_defaultlib.mem_address_to_row_vector(row_si...
+Compiling module xil_defaultlib.output_row_vector(row_size=32)
+Compiling module xil_defaultlib.crossbarvec_bit(num_crossbar=32)
+Compiling module xil_defaultlib.output_cmask(num_crossbar=32)
+Compiling module xil_defaultlib.start_load
+Compiling module xil_defaultlib.clk_crossbar
+Compiling module xil_defaultlib.mMPU_controller(num_crossbar=32,...
+Compiling module xil_defaultlib.axis_mmpu_v4(num_crossbar=32,no_...
+Compiling module blk_mem_gen_v8_4_5.blk_mem_gen_v8_4_5_output_stage(...
+Compiling module blk_mem_gen_v8_4_5.blk_mem_gen_v8_4_5_softecc_outpu...
+Compiling module blk_mem_gen_v8_4_5.blk_mem_gen_v8_4_5_mem_module(C_...
+Compiling module blk_mem_gen_v8_4_5.blk_mem_gen_v8_4_5(C_FAMILY="zyn...
+Compiling module xil_defaultlib.Control_Memory_blk_mem_gen_0_0
+Compiling module xil_defaultlib.Control_Memory
+Compiling module xil_defaultlib.Control_Memory_wrapper
+Compiling module xil_defaultlib.tb_axis_v4
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_axis_v4_behav
