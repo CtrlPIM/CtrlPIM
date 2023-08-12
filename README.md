@@ -16,3 +16,6 @@ The repository is organized into the following directories:
   - `CtrlPIM.ip_user_files`: Contains other IPs used in the CtrlPIM design.
   - `CtrlPIM.xpr`: Xilinx Vivado project.
   - `Microcode_Memory`: Microcode memory for CtrlPIM.
+- `CtrlPIM - A Microcode-Based Controller for Memristive Memory Processing Unit - Technical Report`: Technical report descibing the operation of CtrlPIM in detail.
+
+  
